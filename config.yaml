@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    shruti:
+      email: shruti.pansuriya@outlook.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Shruti Pansuriya
+      password: abc # Will be hashed automatically
+
+cookie:
+  expiry_days: 30
+  key: apple # Must be string
+  name: banana
+pre-authorized:
+  emails:
+  - shruti.pansuriya@outlook.com
